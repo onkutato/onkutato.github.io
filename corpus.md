@@ -1,5 +1,4 @@
 ---
-title: Corpus
 permalink: "/corpus/"
 layout: page
 ---
@@ -14,4 +13,4 @@ layout: page
 
 **Karto-Gráfok. Városképek az adat korában.** (Janosov Milánnal.) In: Élet és Tudomány, 2021/6.
 
-Számítástudományi publikációk listája itt.
+Számítástudományi publikációk listája <a href="https://dblp.org/pid/152/1614.html">itt</a>.
