@@ -11,9 +11,9 @@ collections:
   authors:
     title: Posts
     output: true
-name: Best Blog Theme
+name: Svādhyāya - Kulcsár Géza
 description: Önkutatás - szavak, képek, hangok
-avatar: https://pythonprogramming.org/images/python.svg
+avatar: images/svadhyaya_arrow.png
 footer-links:
   dribbble:
   email: geza.kulcsar88@gmail.com
@@ -28,7 +28,7 @@ footer-links:
   stackoverflow:
   youtube:
 url: 
-baseurl: "/best"
+baseurl: "/"
 permalink: "/:title/"
 version: v1.2.0
 sidebar: true
@@ -60,5 +60,4 @@ paginate_path: "/posts/page:num/"
 include:
 - _categories
 - _authors
-show_authors: true
-telegram_bot: pythonprogrammingorgbot
+show_authors: false
