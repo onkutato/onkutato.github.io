@@ -1,5 +1,5 @@
 ---
-title: Best Blog Theme
+title: Svādhyāya - Kulcsár Géza
 timezone: UTC
 collections:
   posts:
@@ -12,24 +12,22 @@ collections:
     title: Posts
     output: true
 name: Best Blog Theme
-description: Önkutatólabor
+description: Önkutatás - szavak, képek, hangok
 avatar: https://pythonprogramming.org/images/python.svg
 footer-links:
   dribbble:
-  email: pythonprogrammingorg@gmail.com
-  facebook: "loyalseo"
+  email: geza.kulcsar88@gmail.com
+  facebook:
   flickr:
-  github: pythonprogramm9
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss:
-  twitter: pythonprogramm9
+  twitter: 
   stackoverflow:
   youtube:
-disqus: ranvir-singh
-google_analytics: UA-73349527-12
-url: https://ranvir.xyz
+url: 
 baseurl: "/best"
 permalink: "/:title/"
 version: v1.2.0
