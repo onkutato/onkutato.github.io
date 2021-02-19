@@ -14,4 +14,4 @@ Az előadások tematikájának összefoglalás egyetlen imaginatív fókuszban. 
 
 ## v0.1, 2021. februári állapot:
 
-<img src="images/svadhyaya_system-01.png" width="100%">
+<img src="/images/svadhyaya_system-01.png" width="100%">
