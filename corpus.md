@@ -1,5 +1,5 @@
 ---
-title="CORPUS SVĀDHYĀYICUM"
+title: CORPUS SVĀDHYĀYICUM
 permalink: "/corpus/"
 layout: page
 ---
