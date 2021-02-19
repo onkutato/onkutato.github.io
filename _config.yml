@@ -13,7 +13,7 @@ collections:
     output: true
 name: Svādhyāya - Kulcsár Géza
 description: SZINOPTIKUS ÖNKUTATÁS
-avatar: images/svadhyaya_arrow.png
+avatar: /images/svadhyaya_arrow.png
 footer-links:
   dribbble:
   email: geza.kulcsar88@gmail.com
