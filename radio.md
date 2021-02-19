@@ -8,29 +8,33 @@ layout: page
 
 # Metafizika
 
-**Losoncz Márk: A mulandóság dicsérete**
+**A mulandóság dicsérete (Losoncz Márkkal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2D04fMUkQLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Horváth Rónbert: Hagyományhű krizeológia (Járványtan - 2. rész)**
+**Hagyományhű krizeológia (Járványtan Horváth Róberttel - 2. rész)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oh9lxtxW2ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Horváth Rónbert: Szubjektív krizeológia (Járványtan - 1. rész)**
+**Szubjektív krizeológia (Járványtan Horváth Róberttel - 1. rész)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO0WEhOkRak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Laki Zoltán: A testet öltés metafizikája**
+**A testet öltés metafizikája (Laki Zoltánnal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PXaEIsctQrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Hortobágyi el-Horto László: Új közösségi struktúrák**
+**Új közösségi struktúrák (Hortobágyi el-Horto Lászlóval)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXf1dWiKr9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kelet
 
-**Szitár Kristóf: Így nem szólt Zarathusztra - Iránról mindenkinek és senkinek**
+**Mání, a sátánista vegán - Gnózis, túl jón és rosszon (Szitár Kristóffal)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkHEjyTtb2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Így nem szólt Zarathusztra - Iránról mindenkinek és senkinek (Szitár Kristóffal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nk_yC5rfYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,14 +46,14 @@ layout: page
 
 # Imagináció
 
-**Paradigma Ariadné: A határtalant építeni**
+**A határtalant építeni (A Paradigma Ariadné csapatával)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JzXxPktdlXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Csizik Balázs, Szabó Kristóf KristofLab, Csóka Attila: Konkrét kérdések?! (Az azonos című kiállítás kapcsán)
+**Konkrét kérdések?! (Az azonos című kiállítás kapcsán Csizik Balázzsal, Szabó Kristóffal és Csóka Attilával)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1FaAOq8hmKA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Szabó Kristóf KristofLab: Imaginatív urbanizmus**
+**Imaginatív urbanizmus (Szabó Kristóffal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ia4KLOyDurE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
