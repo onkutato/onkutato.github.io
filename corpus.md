@@ -8,7 +8,7 @@ layout: page
 
 **A valóság üressége. Egy online pódiumbeszélgetés emléke.** In: _Új Művészet_, 2021/1.
 
-**[Szín-asztria, avagy Péter és Jakab protoevangéliuma. (Kecskés Péter és Jakab Krisztián performansz-kiállításáról.)](http://www.spanyolnatha.hu/archivum/2020-4/92/papir-vaszon-deszka/szin-asztria-kecskes-peter-es-jakab-krisztian-br-performansz-mementoja-hidvegi-aszter-fotosorozataval/5134/)** In: _Spannyolnátha_, 2020/4.
+**[Szín-asztria, avagy Péter és Jakab protoevangéliuma. (Kecskés Péter és Jakab Krisztián performansz-kiállításáról.)](http://www.spanyolnatha.hu/archivum/2020-4/92/papir-vaszon-deszka/szin-asztria-kecskes-peter-es-jakab-krisztian-br-performansz-mementoja-hidvegi-aszter-fotosorozataval/5134/)** In: _Spanyolnátha_, 2020/4.
 
 **Külvárosi ikonok. Szuperurbanizmus.** In: _Új Művészet_, 2020/4.
 
