@@ -57,54 +57,5 @@ layout: default
     {% endfor %}
   </div>
 
-  <!-- {% include share-bar.html %}
-
-  {% if page.author_username %}
-    {% include author_details.html author_username=page.author_username canonical_url=page.canonical_url author_name=page.author_name %}
-  {% endif %} -->
-
-  <!-- <div class="relatedPosts">
-
-    <h4>You May Also Enjoy</h4>
-
-    {% assign maxRelated = 4 %}
-    {% assign minCommonTags =  2 %}
-    {% assign maxRelatedCounter = 0 %}
-    {% for post in site.posts %}
-
-      {% assign sameTagCount = 0 %}
-      {% assign commonTags = '' %}
-
-      {% for category in post.categories %}
-        {% if post.url != page.url %}
-          {% assign contains_data = page.categories contains category %}
-          {% if page.categories contains category %}
-            {% assign sameTagCount = sameTagCount | plus: 1 %}
-            {% assign tagmarkup = category %}
-            {% assign commonTags = commonTags | append: tagmarkup %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      {% if sameTagCount >= minCommonTags %}
-        <div>
-          <h5>{{maxRelatedCounter | plus: 1}}. <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-        </div>
-        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-        {% if maxRelatedCounter >= maxRelated %}
-          {% break %}
-        {% endif %}
-      {% endif %}
-
-    {% endfor %}
-
-  </div> -->
-  <!-- <div class="container">
-    {% include feedback.html %}
-  </div>
-  <br>
-  {% include disqus.html %}
-  {% if site.sidebar %}
-    {% include sidebar.html %}
-  {% endif %} -->
+  
 </article>
