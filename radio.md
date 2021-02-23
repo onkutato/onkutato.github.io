@@ -8,6 +8,10 @@ layout: page
 
 # Metafizika
 
+**Vízkereszt, amit akartok - avagy a Teofániáról**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tG1fErOt09s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **A mulandóság dicsérete (Losoncz Márkkal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2D04fMUkQLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,6 +27,16 @@ layout: page
 **A testet öltés metafizikája (Laki Zoltánnal)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PXaEIsctQrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Utópia
+
+**Áthangolt Kompjú-Terek, avagy a Planetáris Állandó (Hortobágyi el-Horto Lászlóval)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F-1zT6pvkEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Bábeli technikák (Miklósvölgyi Zsolttal)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZRke7EeexY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Új közösségi struktúrák (Hortobágyi el-Horto Lászlóval)**
 
@@ -40,11 +54,19 @@ layout: page
 
 # Város, természet, ember
 
+**A város embere, az ember városa**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjgW6gdKA5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Aranykor, Birodalom, Város**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5Y-A5St47U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Imagináció
+
+**Avantgárd akasztások (Lantos László Triceps-szel)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_gxkAF8J3U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **A határtalant építeni (A Paradigma Ariadné csapatával)**
 
